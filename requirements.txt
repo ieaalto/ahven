@@ -1,3 +1,4 @@
 twitter-application-only-auth
 tornado
-sklearn
+numpy
+scipy
