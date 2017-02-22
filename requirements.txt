@@ -2,3 +2,4 @@ twitter-application-only-auth
 tornado
 numpy
 scipy
+pandas
