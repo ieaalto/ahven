@@ -3,3 +3,4 @@ tornado
 numpy
 scipy
 pandas
+sklearn
