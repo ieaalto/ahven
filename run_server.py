@@ -22,7 +22,7 @@ def make_app():
 
 if __name__ == "__main__":
     app = make_app()
-    app.listen(8000)
+    app.listen(8888)
     try:
         ioloop.IOLoop.current().start()
     except KeyboardInterrupt:
